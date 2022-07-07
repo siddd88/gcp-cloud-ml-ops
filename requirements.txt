@@ -1,0 +1,9 @@
+scikit-learn
+Flask==2.1.0
+numpy
+pandas==0.24
+pyarrow
+joblib
+fsspec
+google-cloud-bigquery==2.34.4
+gcsfs
